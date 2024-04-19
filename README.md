@@ -238,6 +238,14 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 ## 吉祥物
 
-![](<.gitbook/assets/BFM Unity 吉祥物.png>)
+<div>
+
+<img src=".gitbook/assets/BFM Unity 吉祥物.png" alt="寒武纪">
+
+ 
+
+<figure><img src=".gitbook/assets/BFM Unity 吉祥物奥陶纪.png" alt=""><figcaption><p>奥陶纪</p></figcaption></figure>
+
+</div>
 
 **© 2024.** [**BFM-Unity.com.**](https://www.bfm-unity.com/) [**BFM Unity**](https://www.bfm-unity.com/)**.** [**位面简梦联合体**](https://www.bfm-unity.com/)**. All Rights Reserved.**
