@@ -12,6 +12,7 @@
 
 ## BFM URS｜位面简梦联合体储备系统（区块链加密货币中央银行货币政策）
 
+* [🌟 新资料片：奥陶纪启动！Smart Beta 中性——奎扎尔·科亚特尔计划](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md)
 * [战略资产配置——卓尔金历 🕙](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/README.md)
   * [卓尔金升级1——拟合函数](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-1-ni-he-han-shu.md)
   * [卓尔金升级2——误差分析](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-tzolkin-calendar/zhuo-er-jin-li-fa-de-sheng-ji-2-wu-cha-fen-xi.md)
