@@ -8,9 +8,51 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 >
 > **BF​M Unity : Blockchain · Finance · Multiverse**
 
-## 由于经费不足，而且只有我一个人在维护此网站，因此其他的项目暂时推迟，目前全部精力用于升级卓尔金历法EXCEL表格。至于其他的功能，只会复制一些链接（以前也是如此）
+## 卓尔金历法EXCEL表格的，无监督学习算法优化升级，已经初步完成，但是依然不稳定。因此对卓尔金历法EXCEL表格从短期目标变成了长期目标，但是我们目前急需一个替代性方案。
 
-![](<.gitbook/assets/BFM Unity 5.0  升级版群青 (1).png>)
+## 启动魁札尔·科亚特尔计划，计划的内容是，寻找多个资产的smart beta 中性策略。
+
+## 目前已经取得了一定的进展，包括，可以构造以下动态平衡智能调仓投资组合：
+
+| 资产类型   | 仓位  |
+| ------ | --- |
+| BTC5L  | 10% |
+| BTC5S  | 10% |
+| ETH5L  | 10% |
+| ETH5S  | 10% |
+| LINK5L | 10% |
+| LINK5S | 10% |
+| DOGE5L | 10% |
+| DOGE5S | 10% |
+| SHIB5L | 10% |
+| SHIB5S | 10% |
+
+## 未来会优化到如下状态：
+
+| 资产类型   | 仓位 |
+| ------ | -- |
+| BTC5L  | 4% |
+| BTC5S  | 4% |
+| ETH5L  | 4% |
+| ETH5S  | 4% |
+| LINK5L | 4% |
+| LINK5S | 4% |
+| DOGE5L | 4% |
+| DOGE5S | 4% |
+| SHIB5L | 4% |
+| SHIB5S | 4% |
+| BTC3L  | 6% |
+| BTC3S  | 6% |
+| ETH3L  | 6% |
+| ETH3S  | 6% |
+| LINK3L | 6% |
+| LINK3S | 6% |
+| DOGE3L | 6% |
+| DOGE3S | 6% |
+| SHIB3L | 6% |
+| SHIB3S | 6% |
+
+## 希望Gate.io，Kucoin，Binance，Pionex等交易所，做好相应的技术支持。比如增加杠杆代币的种类，优化智能调仓机器人内部可添加的币种数量等。
 
 <details>
 
