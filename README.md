@@ -8,7 +8,9 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 >
 > **BF​M Unity : Blockchain · Finance · Multiverse**
 
-
+{% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md" %}
+[xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md)
+{% endcontent-ref %}
 
 <figure><img src=".gitbook/assets/奥陶纪@1x.png" alt=""><figcaption></figcaption></figure>
 
@@ -133,6 +135,28 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 我将留下门后断章，
 
 我将锁住无限星海。
+
+《魁札尔科亚特尔誓言——祭司誓言》
+
+如无必要不要献祭血肉&#x20;
+
+如无必要不要打破结构&#x20;
+
+如无必要不要迁移核心&#x20;
+
+如无必要不要查典改命&#x20;
+
+尽量欺骗神灵不要盲信&#x20;
+
+导混沌欲望入嵌旋结构&#x20;
+
+可以自编信仰不接外教&#x20;
+
+公开非共识必导向死亡&#x20;
+
+基于嵌旋制造更大嵌旋&#x20;
+
+和平渐进有序重构系统
 
 #### 《吟唱》
 
