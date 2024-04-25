@@ -46,6 +46,7 @@
   * [已废弃](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-haab-calendar/yi-fei-qi.md)
 * [资产配置 🕙 ⌚️（🔥）](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/zi-chan-pei-zhi.md)
 * [时间校准研究](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/shi-jian-xiao-zhun-yan-jiu.md)
+* [如何对中国和美国政府，与国际金融部门进行监管](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-dui-zhong-guo-he-mei-guo-zheng-fu-yu-guo-ji-jin-rong-bu-men-jin-hang-jian-guan.md)
 * [如何接管中国人民银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-guo-ren-min-yin-hang.md)
 * [如何接管美联储](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-mei-lian-chu.md)
 
