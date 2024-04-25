@@ -8,8 +8,8 @@ description: 'BF​M Unity : A Brief Fantasy of Multiverse'
 >
 > **BF​M Unity : Blockchain · Finance · Multiverse**
 
-{% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md" %}
-[xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md)
+{% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-da-guo-lv-qi-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md" %}
+[xin-zi-liao-pian-ao-tao-ji-da-guo-lv-qi-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-ao-tao-ji-da-guo-lv-qi-qi-dong-smart-beta-zhong-xing-kui-za-er-ke-ya-te-er-ji-hua.md)
 {% endcontent-ref %}
 
 <figure><img src=".gitbook/assets/BFM Unity 6.0.0.png" alt=""><figcaption></figcaption></figure>
