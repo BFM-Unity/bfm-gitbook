@@ -48,9 +48,11 @@
 
 ## 目前已经取得了一定的进展，包括，可以构造以下动态平衡智能调仓投资组合：
 
-<table><thead><tr><th width="491">资产类型</th><th>仓位</th></tr></thead><tbody><tr><td>BTC5L</td><td>10%</td></tr><tr><td>BTC5S</td><td>10%</td></tr><tr><td>ETH5L</td><td>10%</td></tr><tr><td>ETH5S</td><td>10%</td></tr><tr><td>LINK5L</td><td>10%</td></tr><tr><td>LINK5S</td><td>10%</td></tr><tr><td>DOGE5L</td><td>10%</td></tr><tr><td>DOGE5S</td><td>10%</td></tr><tr><td>SHIB5L</td><td>10%</td></tr><tr><td>SHIB5S</td><td>10%</td></tr></tbody></table>
+## 奥陶纪跃迁引擎Air
 
-## 未来会优化到如下状态：
+<table><thead><tr><th width="380">资产类型</th><th>仓位</th></tr></thead><tbody><tr><td>BTC5L</td><td>10%</td></tr><tr><td>BTC5S</td><td>10%</td></tr><tr><td>ETH5L</td><td>10%</td></tr><tr><td>ETH5S</td><td>10%</td></tr><tr><td>LINK5L</td><td>10%</td></tr><tr><td>LINK5S</td><td>10%</td></tr><tr><td>DOGE5L</td><td>10%</td></tr><tr><td>DOGE5S</td><td>10%</td></tr><tr><td>SHIB5L</td><td>10%</td></tr><tr><td>SHIB5S</td><td>10%</td></tr></tbody></table>
+
+## 奥陶纪跃迁引擎Pro
 
 | 资产类型   | 仓位 |
 | ------ | -- |
@@ -74,6 +76,35 @@
 | DOGE3S | 6% |
 | SHIB3L | 6% |
 | SHIB3S | 6% |
+
+## 寒武纪大过滤器与奥陶纪跃迁引擎Air
+
+<table><thead><tr><th width="380">资产类型</th><th>仓位</th></tr></thead><tbody><tr><td>BTC5L</td><td>10%</td></tr><tr><td>CFX5S</td><td>10%</td></tr><tr><td>ETH5L</td><td>10%</td></tr><tr><td>TRX5S</td><td>10%</td></tr><tr><td>LINK5L</td><td>10%</td></tr><tr><td>BCH5S</td><td>10%</td></tr><tr><td>DOGE5L</td><td>10%</td></tr><tr><td>VET5S</td><td>10%</td></tr><tr><td>SHIB5L</td><td>10%</td></tr><tr><td>IOST5S</td><td>10%</td></tr></tbody></table>
+
+## 寒武纪大过滤器与奥陶纪跃迁引擎Pro
+
+| 资产类型   | 仓位 |
+| ------ | -- |
+| BTC3L  | 6% |
+| BTC5S  | 4% |
+| ETH3L  | 6% |
+| ETH5S  | 4% |
+| LINK3L | 6% |
+| LINK5S | 4% |
+| DOGE3L | 6% |
+| DOGE5S | 4% |
+| SHIB3L | 6% |
+| SHIB5S | 4% |
+| CFX3S  | 6% |
+| CFX5L  | 4% |
+| TRX3S  | 6% |
+| TRX5L  | 4% |
+| BCH3S  | 6% |
+| BCH5L  | 4% |
+| VET3S  | 6% |
+| VET5L  | 4% |
+| IOST3S | 6% |
+| IOST5L | 4% |
 
 ## 希望Gate.io，Kucoin，Binance，Pionex等交易所，做好相应的技术支持。比如增加杠杆代币的种类，优化智能调仓机器人内部可添加的币种数量等。
 

@@ -3,7 +3,7 @@
 ## 正在努力对接币安支付，Alchemy Pay，Shopify和WordPress，争取把表格卖出去💪
 
 {% hint style="success" %}
-* BFM URS (The Tzolkin Calendar) Trial\\
+* BFM URS (The Tzolkin Calendar) Trial
 * BFM URS (The Tzolkin Calendar) Stable
   * BFM URS (The Tzolkin Calendar) Popular
   * BFM URS (The Tzolkin Calendar) Air
