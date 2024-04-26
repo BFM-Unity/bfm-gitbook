@@ -254,7 +254,7 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
  
 
-<figure><img src=".gitbook/assets/天不安门-30_2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/天不安门-30_2x (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 
