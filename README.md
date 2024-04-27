@@ -240,19 +240,17 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 
 
-
-
 <div>
 
-<figure><img src=".gitbook/assets/BFM Unity 吉祥物 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/吉祥物 1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/BFM Unity 吉祥物 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/吉祥物 2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/BFM Unity 小吉祥物.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/吉祥物 3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
