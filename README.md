@@ -238,13 +238,21 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 ## 吉祥物
 
+
+
+
+
 <div>
 
-<figure><img src=".gitbook/assets/BFM Unity 吉祥物 2.png" alt=""><figcaption><p>寒武纪：《游戏人生》 托特（特图）</p></figcaption></figure>
+<figure><img src=".gitbook/assets/BFM Unity 吉祥物 2 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/BFM Unity 吉祥物.png" alt=""><figcaption><p>奥陶纪：《来自深渊》 法普塔</p></figcaption></figure>
+<figure><img src=".gitbook/assets/BFM Unity 吉祥物 (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/BFM Unity 小吉祥物.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
