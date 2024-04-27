@@ -65,38 +65,16 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 ### **场外交易**
 
-* \*\*\*\*[**Pexpay**](https://www.pexpay.com/)**（与Binance合作，可互相免手续费划转）**
+* [**Pexpay**](https://www.pexpay.com/)**（与Binance合作，可互相免手续费划转）**
 * [**Paxful**](https://paxful.com/)**（支持礼品卡交易）**
-* ~~\*\*\*\*~~[~~**CoinCola**~~](https://www.coincola.com/?lang=zh-CN)**（不再支持CNY交易）**
-* ~~\*\*\*\*~~[~~**LocalBitcoins**~~](https://localbitcoins.com/)（停止运行）
-
-## 2，机器人（不确定且有风险的年化收益：约100%）
-
-### 绑定API
-
-{% tabs %}
-{% tab title="AntBot" %}
-[**AntBot**](https://antrade.io/)**（**[**文档**](https://antrade.io/guide/docs/cn)**）**
-
-* **网格**
-* **移动网格**
-* **双向网格**
-* 再平衡（智能调仓）🆓
-* 马丁
-{% endtab %}
-
-{% tab title="BitUniverse" %}
-\*\*\*\*[**币优 - BitUniverse**](https://www.bituniverse.org/zh-CN/index.html)
-
-* **网格** 🆓
-{% endtab %}
-{% endtabs %}
+* [~~**CoinCola**~~](https://www.coincola.com/?lang=zh-CN)**（不再支持CNY交易）**
+* [~~**LocalBitcoins**~~](https://localbitcoins.com/)（停止运行）
 
 ### 交易所自带
 
 {% tabs %}
 {% tab title="Binance" %}
-[**Binance**](https://www.binance.com/zh-CN)\*\*\*\*
+[**Binance**](https://www.binance.com/zh-CN)
 
 * **网格**
   * **现货网格**
@@ -461,7 +439,5 @@ VR，AIGC，现在都是爆死！
 套利的收益去 KuCoin 做极速定投，单币网格，双币网格，动态再平衡(智能持仓)。
 
 [KuCoin: BTC, Crypto Exchange - Apps on Google Play](https://play.google.com/store/apps/details?id=com.kubi.kucoin\&hl=en\_US\&gl=US)
-
-或者使用[Binance](https://www.binance.com/zh-CN)+[AntBot](https://antrade.io/)
 {% endtab %}
 {% endtabs %}
