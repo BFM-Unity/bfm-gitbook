@@ -111,3 +111,23 @@
 ## 当然，如果Gate.io，Kucoin，Binance，Pionex等中心化交易所依然不更新，拉胯挤牙膏，我会考虑与去中心化交易所合作，如Balancer，dHedge等。
 
 ## 另外，启动对Golly，Ready，Lenia等开放宇宙游戏的研究，试图让这些细胞自动机运行在区块链金融网络上。
+
+1，LTCM合伙人Victor Haghani反思kelly准则在金融界至今仍被忽视- 硬币实验&#x20;
+
+[https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2159/Haghani-Dewey%2Bexperiment.pdf](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2159/Haghani-Dewey%2Bexperiment.pdf)
+
+2，kelly本人 1956年 A New Interpretation of Information Rate论文原文 [https://www.princeton.edu/\~wbialek/rome/refs/kelly\_56.pdf](https://www.princeton.edu/\~wbialek/rome/refs/kelly\_56.pdf)
+
+3，赛马相关论文
+
+1）1976&#x20;
+
+[https://www.journals.uchicago.edu/doi/abs/10.1086/260419?journalCode=jpe](https://www.journals.uchicago.edu/doi/abs/10.1086/260419?journalCode=jpe)
+
+2）2017
+
+[https://etheses.whiterose.ac.uk/17852/1/Chi%20Zhang-PhD%20Thesis.pdf](https://etheses.whiterose.ac.uk/17852/1/Chi%20Zhang-PhD%20Thesis.pdf)
+
+4，赛马专业数据&#x20;
+
+[https://www.totalperformancedata.com/live-pr-api/](https://www.totalperformancedata.com/live-pr-api/)
