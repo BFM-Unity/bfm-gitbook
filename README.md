@@ -1,6 +1,6 @@
 ---
 description: 'BF​M Unity : A Brief Fantasy of Multiverse'
-cover: .gitbook/assets/BFM Unity 6.0.2 (1).png
+cover: .gitbook/assets/BFM Unity 6.0.2 (1) (1).png
 coverY: 0
 ---
 
@@ -13,6 +13,10 @@ coverY: 0
 {% content-ref url="bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-han-wu-ji-da-guo-lv-qi-yu-ao-tao-ji-yue-qian-yin-qing-qi-dong-smart-beta-neutral-ku.md" %}
 [xin-zi-liao-pian-han-wu-ji-da-guo-lv-qi-yu-ao-tao-ji-yue-qian-yin-qing-qi-dong-smart-beta-neutral-ku.md](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-han-wu-ji-da-guo-lv-qi-yu-ao-tao-ji-yue-qian-yin-qing-qi-dong-smart-beta-neutral-ku.md)
 {% endcontent-ref %}
+
+
+
+<figure><img src=".gitbook/assets/BFM Unity 6.0.2.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
@@ -253,26 +257,6 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 <figure><img src=".gitbook/assets/吉祥物 3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-## 你没有长子情怀，
-
-## 我不会忠诚担当。
-
-## 养儿防老是幻觉，
-
-## 穷儿富女是真实。
-
-## 务实敬业是旧梦，
-
-## 逼人下岗是现实。
-
-## 只会打不会喂奶，
-
-## 亲妈不养换后妈。
-
-## ——
-
-## 加密货币产业致中国人民银行。
 
 <div>
 
