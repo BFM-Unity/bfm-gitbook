@@ -272,13 +272,7 @@ NOTE: **💀 Please** [Do Your Own Research (DYOR) - Binance Academy](https://ac
 
 <figure><img src=".gitbook/assets/人民龘会堂-30_2x_2.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-<figure><img src=".gitbook/assets/天天不安门-30_2x_2.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-
+<figure><img src=".gitbook/assets/天天不安门-3.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/冢椁人民阎行-30_2x_2.jpg" alt=""><figcaption></figcaption></figure>
 
