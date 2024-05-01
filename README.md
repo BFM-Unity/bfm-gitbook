@@ -14,6 +14,8 @@ coverY: 0
 [xin-zi-liao-pian-han-wu-ji-da-guo-lv-qi-yu-ao-tao-ji-yue-qian-yin-qing-qi-dong-smart-beta-neutral-ku.md](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/xin-zi-liao-pian-han-wu-ji-da-guo-lv-qi-yu-ao-tao-ji-yue-qian-yin-qing-qi-dong-smart-beta-neutral-ku.md)
 {% endcontent-ref %}
 
+{% embed url="https://www.bilibili.com/video/BV1G14y1R7tk/" %}
+
 <figure><img src=".gitbook/assets/BFM Unity 6.0.2.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
