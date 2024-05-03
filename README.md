@@ -16,7 +16,7 @@ coverY: 0
 
 {% embed url="https://www.bilibili.com/video/BV1G14y1R7tk/" %}
 
-<figure><img src=".gitbook/assets/BFM Unity 6.0.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/BFM Unity 6.0.4.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
