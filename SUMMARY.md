@@ -48,11 +48,11 @@
   * [已废弃](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/the-haab-calendar/yi-fei-qi.md)
 * [资产配置 🕙 ⌚️（🔥）](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/zi-chan-pei-zhi.md)
 * [时间校准研究](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/shi-jian-xiao-zhun-yan-jiu.md)
-* [如何接管中美政府国际金融部门](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-mei-zheng-fu-guo-ji-jin-rong-bu-men.md)
-* [如何接管中国人民银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-guo-ren-min-yin-hang.md)
-* [如何接管中国三大政策性银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-guo-san-da-zheng-ce-xing-yin-hang.md)
-* [如何接管中国四大国有银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-guo-si-da-guo-you-yin-hang.md)
-* [如何接管美联储](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-mei-lian-chu.md)
+* [如何碾碎中美政府国际金融部门](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-nian-sui-zhong-mei-zheng-fu-guo-ji-jin-rong-bu-men.md)
+* [如何碾碎中国人民银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-zhong-guo-ren-min-yin-hang.md)
+* [如何碾碎中国三大政策性银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-nian-sui-zhong-guo-san-da-zheng-ce-xing-yin-hang.md)
+* [如何碾碎中国四大国有银行](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-nian-sui-zhong-guo-si-da-guo-you-yin-hang.md)
+* [如何碾碎美联储](bfm-urs-wei-mian-jian-meng-lian-he-ti-chu-bei-xi-tong-qu-kuai-lian-jia-mi-huo-bi-zhong-yang-yin-hang/ru-he-jie-guan-mei-lian-chu.md)
 
 ## BFM Unity | 位面简梦联合体
 
