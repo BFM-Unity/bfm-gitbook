@@ -1,5 +1,7 @@
 # 《位面简梦联合体（BFM-UNITY）储备系统（简称，位面简梦联储，位面联储，BFM-URS）法》
 
+{% embed url="https://www.bilibili.com/video/BV1gP411J758" %}
+
 《位面简梦联合体（BFM-UNITY）储备系统（简称，位面简梦联储，位面联储，BFM-URS）法》
 
 **目 录**
