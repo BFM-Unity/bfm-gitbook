@@ -144,6 +144,8 @@
 
 另外，启动对Golly，Ready，Lenia等开放宇宙游戏的研究，试图让这些细胞自动机运行在区块链金融网络上。
 
+0，A mathematical theory of communication. Bell System Tech J, Claude Eiwood Shannon 1916-2001
+
 1，LTCM合伙人Victor Haghani反思kelly准则在金融界至今仍被忽视- 硬币实验
 
 [https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2159/Haghani-Dewey%2Bexperiment.pdf](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2159/Haghani-Dewey%2Bexperiment.pdf)
