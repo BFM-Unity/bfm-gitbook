@@ -6,7 +6,7 @@ coverY: 0
 
 # 🌟 BF​M Unity : A Brief Fantasy of Multiverse
 
-> #### 位面简**梦联合体 : 区块链 · 金融 · 位面**
+> #### 颅骨碗位面简**梦联合体 : 区块链 · 金融 · 位面**
 >
 > **BF​M Unity : Blockchain · Finance · Multiverse**
 
@@ -18,9 +18,19 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/BFM Unity 6.0.4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<div>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/金刚杵@2x.png" alt=""><figcaption><p>金刚杵</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/颅骨碗@2x.png" alt=""><figcaption><p>颅骨碗</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/三叉戟@2x.png" alt=""><figcaption><p>三叉戟</p></figcaption></figure>
+
+</div>
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
