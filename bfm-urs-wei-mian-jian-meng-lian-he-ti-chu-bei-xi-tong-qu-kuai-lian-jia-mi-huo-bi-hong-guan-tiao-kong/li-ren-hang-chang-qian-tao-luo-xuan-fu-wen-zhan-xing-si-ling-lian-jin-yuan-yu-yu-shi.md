@@ -1,6 +1,8 @@
 # 😇 历任行长（嵌套螺旋·符文占星·死灵炼金·原语谕示）
 
-{% embed url="https://www.bilibili.com/video/BV1Qx411S7qJ/?spm_id_from=333.337.search-card.all.click" %}
+{% embed url="https://b23.tv/cBpWG86" %}
+
+{% embed url="https://b23.tv/Mx8uACk" %}
 
 ## 嵌旋递归
 

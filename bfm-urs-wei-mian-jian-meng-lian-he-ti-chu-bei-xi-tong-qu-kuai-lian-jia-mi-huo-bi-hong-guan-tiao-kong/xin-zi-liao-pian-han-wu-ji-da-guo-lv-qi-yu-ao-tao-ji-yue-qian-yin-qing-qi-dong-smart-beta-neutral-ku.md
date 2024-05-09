@@ -1,5 +1,7 @@
 # 🌟 新资料片：寒武纪大过滤器与奥陶纪跃迁引擎启动！Smart Beta Neutral ——奎扎尔·科亚特尔计划
 
+{% embed url="https://www.bilibili.com/video/BV1Qx411S7qJ" %}
+
 {% embed url="https://www.bilibili.com/video/BV1i54y1i7jH" %}
 
 ## 什么是大过滤器
