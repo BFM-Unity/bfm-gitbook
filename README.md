@@ -1,10 +1,10 @@
 ---
-description: 'BF​M Unity : A Brief Fantasy of Multiverse'
+description: 'BF​M UNITY : A Brief Fantasy of Multiverse'
 cover: .gitbook/assets/BFM Unity 6.0.2 (1) (1).png
 coverY: 0
 ---
 
-# 🌟 BF​M Unity : A Brief Fantasy of Multiverse
+# 🌟 BF​M UNITY : A Brief Fantasy of Multiverse
 
 > #### 位面简**梦联合体 : 区块链 · 金融 · 位面**
 >
