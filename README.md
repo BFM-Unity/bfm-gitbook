@@ -8,8 +8,6 @@ coverY: 0
 
 > #### 位面简**梦联合体 : 总线 · 函数 · 位面**
 >
->
->
 > **BF​M Unity : Bus · Function · Multiverse**
 
 > #### 位面简**梦地球联合政府 : 赐福 · 边界 · 塬址**
@@ -44,7 +42,19 @@ coverY: 0
 
 </div>
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src=".gitbook/assets/七浮屠@2x (3).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/大明咒@2x (2).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/花果树@2x (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <details>
 
