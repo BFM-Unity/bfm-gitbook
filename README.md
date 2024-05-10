@@ -26,7 +26,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/BFM Unity 6.0.4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/超星系团.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/超星系团.png" alt=""><figcaption><p>《拉尼亚凯亚云图》</p></figcaption></figure>
 
 <div>
 
@@ -44,15 +44,15 @@ coverY: 0
 
 <div>
 
-<figure><img src=".gitbook/assets/七浮屠@2x (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/七浮屠@2x (3).png" alt=""><figcaption><p>七浮屠</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/大明咒@2x (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/大明咒@2x (2).png" alt=""><figcaption><p>大明咒</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/花果树@2x (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/花果树@2x (2).png" alt=""><figcaption><p>花果树</p></figcaption></figure>
 
 </div>
 
