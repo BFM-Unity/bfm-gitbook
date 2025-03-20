@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🌟 BF​M UNITY : A Brief Fantasy of Multiverse](README.md)
+* [B.F.M. UNITY & B.F.M. U.R.S.](README.md)
+* [🌟 BF​M UNITY : A Brief Fantasy of Multiverse](<README (1).md>)
 
 ## BFM Lite | 位面简梦轻量版
 
