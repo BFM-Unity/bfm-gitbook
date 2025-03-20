@@ -22,9 +22,9 @@
 | LEO          | 20%               |
 | USDT or USDC | 20%               |
 
-| 杠杆率：4x                   | 时间调仓：3h，空间调仓：2.5% |
-| ------------------------ | ----------------- |
-| BTCETHUSDT（做空）           | 25%               |
-| ETHUSDT（做多）              | 25%               |
-| BTCUSDT（做空）              | 25%               |
-| PAXGUSDT or XAUGUSDT（做多） | 25%               |
+| 杠杆率：4x                     | 时间调仓：3h，空间调仓：2.5% |
+| -------------------------- | ----------------- |
+| ETHBTCUSDT（SHORT）          | 25%               |
+| ETHUSDT（LONG）              | 25%               |
+| BTCUSDT（SHORT）             | 25%               |
+| PAXGUSDT or XAUGUSDT（LONG） | 25%               |
